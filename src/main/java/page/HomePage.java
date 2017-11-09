@@ -35,7 +35,7 @@ public class HomePage {
 	   password.sendKeys(Password);*/
 		
 		emailId.sendKeys("plabani.17@gmail.com");
-		password.sendKeys("Nature@2017");
+		password.sendKeys("XXXXX");
 	   loginButton.click();
 	}
 		

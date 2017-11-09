@@ -3,6 +3,9 @@ Pre-requisites:
 - Install TestNG
 
 
+Test CAse 1:
+- VerifyBrokenLinks: Run the class as Java application separately.
+
 
 TestCase2:
 Before running TestCase 2, please:
@@ -11,6 +14,6 @@ Before running TestCase 2, please:
 -Inside Comment Class, change the FirstName and Last name in the FindElement lines for 	(xpath_dy,xpath_dy1, xpath_dy2) to the Logged in user First Name and LastName.
 Ex- Change [Plabani] to [<Your First Name>], etc.
 
-
 Running TestCAse:
-- Run the Test Suite from Testng.xml as TestNG suite.
+-Test CAse 2:Run the Test Suite from Testng.xml as TestNG suite.
+

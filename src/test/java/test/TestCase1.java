@@ -10,7 +10,7 @@ public class TestCase1 extends BaseTest {
 	
 	
 	
-  @Test
+  @Test(enabled=false)
   public void test2(String URL) throws InterruptedException {
 
 	  getDriver().get(URL);	 
